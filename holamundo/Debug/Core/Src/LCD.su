@@ -1,0 +1,10 @@
+../Core/Src/LCD.c:14:6:LCD_STM32_DataBus	16	static
+../Core/Src/LCD.c:29:6:LCD_STM32_Cmd	16	static
+../Core/Src/LCD.c:36:6:LCD_STM32_Init	8	static
+../Core/Src/LCD.c:53:6:LCD_STM32_SetCursor	24	static
+../Core/Src/LCD.c:83:6:LCD_STM32_Print_Char	24	static
+../Core/Src/LCD.c:91:6:LCD_STM32_Print_String	24	static
+../Core/Src/LCD.c:97:6:LCD_STM32_Clear	8	static
+../Core/Src/LCD.c:102:6:LCD_STM32_Home	8	static
+../Core/Src/LCD.c:107:6:LCD_STM32_New_Char	32	static
+../Core/Src/LCD.c:240:6:LCD_STM32_Write_New_Char	16	static
